@@ -20,8 +20,7 @@ Skilled in building scalable applications using the MERN stack and developing ma
 
 - 🎓 **Education:** BS Computer Science — FAST-NUCES (2022–2026)
 - 🏫 **Academic Roles:** Teaching Assistant at FAST-NUCES
-- 💡 **Core Focus:** Generative AI, Vision Transformers, and Distributed Storage Scalability
-- 💼 **Availability:** Open to Software Engineering internships, freelance collaboration, and open-source contributions
+
 
 ---
 
