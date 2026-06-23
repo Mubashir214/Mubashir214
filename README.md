@@ -61,27 +61,6 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [AI Smart Scrum Assistant](https://github.com/Mubashir214/AI-Smart-Scrum-Assistant)
-*An AI-driven agile task management system built to streamline project sprint planning, task estimation, and developer workflows.*
-- **Stack:** Next.js, Node.js, Express, MongoDB, Generative AI APIs
-
-### 🔀 [Urdu to Roman Urdu Neural Machine Translation](https://github.com/Mubashir214/Neural-Machine-Translation)
-*A sequence-to-sequence NLP model trained to accurately translate native Urdu text script into phonetic Roman Urdu.*
-- **Stack:** PyTorch, Torchnlp, Python
-
-### 👁️ [Masked Autoencoder (MAE) Implementation](https://github.com/Mubashir214/Masked-Autoencoder)
-*A self-supervised computer vision project leveraging Vision Transformers (ViT) to reconstruct masked image patches.*
-- **Stack:** PyTorch, Vision Transformers (ViT), NumPy
-
-### ☁️ [Distributed Cloud Storage Cluster](https://github.com/Mubashir214/Distributed-Cloud-Storage)
-*Built a resilient, distributed object and block storage cluster using Ceph, backed by an end-to-end monitoring pipeline.*
-- **Stack:** Ceph Cluster, Prometheus, Grafana, Linux/Bash
-
-### 📚 [BookBridge Exchange Platform](https://github.com/Mubashir214/BookBridge)
-*A decentralized campus-focused marketplace for students to list, trade, and request textbooks seamlessly.*
-- **Stack:** MongoDB, Express.js, React.js, Node.js
 
 ---
 
@@ -93,11 +72,6 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
 </p>
 
 ---
-
-## ⚡ What I'm Up To
-- 🛠️ Fine-tuning Open-Source LLMs for specialized domain workflows.
-- 📖 Diving deeper into advanced distributed system architectures and Kubernetes.
-- 🤝 Looking to collaborate on high-performance open-source AI tools.
 
 ---
 
