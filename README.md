@@ -60,19 +60,6 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
 `Python` • `C++` • `JavaScript (ES6+)` • `C#` • `SQL`
 
 ---
-
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir214&show_icons=true&theme=visual_studio_dark&count_private=true&include_all_commits=true" height="160" alt="Mubashir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir214&layout=compact&theme=visual_studio_dark" height="160" alt="Mubashir's Top Languages" />
-</p>
-
----
-
 ---
 
 ## 📫 Let's Connect!
