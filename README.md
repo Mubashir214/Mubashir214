@@ -15,7 +15,8 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) passionate about engineering intelligent, scalable, and distributed systems. My expertise spans building full-stack web applications, training deep learning models, and configuring robust cloud infrastructure. 
+Computer Science Graduate from FAST University with hands-on experience in AI systems, cloud technologies, and full-stack development. 
+Skilled in building scalable applications using the MERN stack and developing machine learning models with PyTorch. 
 
 - 🎓 **Education:** BS Computer Science — FAST-NUCES (2022–2026)
 - 🏫 **Academic Roles:** Teaching Assistant at FAST-NUCES
