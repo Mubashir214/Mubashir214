@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Mubashir Siddique
+# 💾 Mubashir Siddique
 
 ### **Full-Stack Developer | AI/ML Engineer | Cloud & DevOps Enthusiast**
 
