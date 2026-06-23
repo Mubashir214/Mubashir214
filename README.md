@@ -20,8 +20,6 @@ Skilled in building scalable applications using the MERN stack and developing ma
 
 - 🎓 **Education:** BS Computer Science — FAST-NUCES (2022–2026)
 - 🏫 **Academic Roles:** Teaching Assistant at FAST-NUCES
-
-
 ---
 
 ## 🛠️ Tech Stack
