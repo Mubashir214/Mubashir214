@@ -4,9 +4,8 @@
 
 ### **Full-Stack Developer | AI/ML Engineer | Cloud & DevOps Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-siddique-2b5604365/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirsiddique123456@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
 
 ---
 
@@ -55,7 +54,7 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" />
-</p>
+</p> profile
 
 ### 💻 Languages
 `Python` • `C++` • `JavaScript (ES6+)` • `C#` • `SQL`
@@ -64,21 +63,25 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Smart Scrum Assistant
+### 🧠 [AI Smart Scrum Assistant](https://github.com/Mubashir214/AI-Smart-Scrum-Assistant)
 *An AI-driven agile task management system built to streamline project sprint planning, task estimation, and developer workflows.*
 - **Stack:** Next.js, Node.js, Express, MongoDB, Generative AI APIs
 
-### 🔀 Urdu to Roman Urdu Neural Machine Translation
+### 🔀 [Urdu to Roman Urdu Neural Machine Translation](https://github.com/Mubashir214/Neural-Machine-Translation)
 *A sequence-to-sequence NLP model trained to accurately translate native Urdu text script into phonetic Roman Urdu.*
 - **Stack:** PyTorch, Torchnlp, Python
 
-### 👁️ Masked Autoencoder (MAE) Implementation
+### 👁️ [Masked Autoencoder (MAE) Implementation](https://github.com/Mubashir214/Masked-Autoencoder)
 *A self-supervised computer vision project leveraging Vision Transformers (ViT) to reconstruct masked image patches.*
 - **Stack:** PyTorch, Vision Transformers (ViT), NumPy
 
-### ☁️ Distributed Cloud Storage with Real-Time Monitoring
+### ☁️ [Distributed Cloud Storage Cluster](https://github.com/Mubashir214/Distributed-Cloud-Storage)
 *Built a resilient, distributed object and block storage cluster using Ceph, backed by an end-to-end monitoring pipeline.*
 - **Stack:** Ceph Cluster, Prometheus, Grafana, Linux/Bash
+
+### 📚 [BookBridge Exchange Platform](https://github.com/Mubashir214/BookBridge)
+*A decentralized campus-focused marketplace for students to list, trade, and request textbooks seamlessly.*
+- **Stack:** MongoDB, Express.js, React.js, Node.js
 
 ---
 
@@ -100,6 +103,6 @@ I am a final-year Computer Science student at **FAST-NUCES** (Graduating 2026) p
 
 ## 📫 Let's Connect!
 
+- **LinkedIn:** [linkedin.com/in/mubashir-siddique](https://www.linkedin.com/in/mubashir-siddique-2b5604365/)
 - **Email:** [mubashirsiddique123456@gmail.com](mailto:mubashirsiddique123456@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](YOUR_LINKEDIN_URL_HERE)
 - **GitHub:** [@Mubashir214](https://github.com/Mubashir214)
